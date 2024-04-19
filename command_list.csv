@@ -1,0 +1,16 @@
+  227  touch develop_test.txt
+  228  git add .
+  229  git commit -m "Task 3"
+  230  vim develop_test.txt
+  231  git status
+  232  git add .
+  233  git commit -m "Task 3"
+  234  git push
+  235  git checkout -b main
+  236  git branch
+  237  git checkout main
+  238  clean
+  239  clear
+  240  git merge develop
+  241  git log
+  242  git push
